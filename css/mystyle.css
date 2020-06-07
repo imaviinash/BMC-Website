@@ -1,0 +1,45 @@
+
+.top_bar{background:radial-gradient(circle, #009CDE, #003087);  padding:8px 0;}
+.social_icon{margin-right:10px;}
+.contact_info{color:#fff; font-size:17px;}
+
+.my_menu{margin-top:10px; }
+
+.my_menu .navbar-default{background: none; border: none;}
+
+.my_menu .navbar-nav .active a, .my_menu .navbar-nav .active a:hover{background:radial-gradient(circle, #009CDE, #003087);   color:#fff;}
+
+.my_menu .navbar-nav li a:hover{background: radial-gradient(circle, #009CDE, #003087);  color:#fff;}
+
+
+.languages{margin-top: 40px;}
+
+.our_courses{background: radial-gradient(circle, #009CDE, #003087); padding: 25px 0;}
+
+.our_courses h1{color: #fff;}
+
+.our_courses h3{color: #fff;}
+
+.our_courses p{color: #fff;}
+
+.our_courses .top_margin{margin-top: 36px;}
+
+
+.footer{background: black; padding: 20px 0;}
+
+.footer ul{list-style: none; margin: 10; padding: 0; color: #fff;}
+
+
+.footer ul li a{color: #fff; font-size: 15px;}
+
+
+.footer{color: #fff;}
+.expertss{background:radial-gradient(circle, #009CDE, #003087);  padding:8px 0;}
+
+
+
+
+
+
+
+
